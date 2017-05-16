@@ -1,0 +1,23 @@
+{
+  "name": "nl-btcmarkets",
+  "version": "1.0.0",
+  "description": "BTC Markets node.js client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nolim1t/nl-btcmarkets.git"
+  },
+  "author": "Barry Teoh <21.co/barryt>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nolim1t/nl-btcmarkets/issues"
+  },
+  "homepage": "https://github.com/nolim1t/nl-btcmarkets#readme",
+  "dependencies": {
+    "obj-to-querystring": "^1.0.0",
+    "request": "^2.81.0"
+  }
+}
